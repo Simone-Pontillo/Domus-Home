@@ -1,0 +1,10 @@
+{
+    "simone": {
+        "hash": "$2y$10$Um0pqKQ5gTqaQV0K2EGJa.zDkqaTQRwuwPC21KaVmuPZTrMZxXcAO",
+        "role": "admin"
+    },
+    "lidia": {
+        "hash": "$2y$10$SlpaT7poJU3m.n8uvcrk\/ONXshZiVEdfTwS2GzFfQNwwXdri28yXS",
+        "role": "utente"
+    }
+}
